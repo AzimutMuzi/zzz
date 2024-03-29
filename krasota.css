@@ -1,0 +1,70 @@
+#odin {color:#fff100;
+background-color:#ff7300;
+border:solid #fff100;
+width: 50px;
+height: 30px;
+    border-radius:15px;
+    padding-right:15px;
+}
+body{background-color:#dfd5ff;}
+h1{text-align:center;
+color:#5c40ff;}
+p{font-style:italic;}
+img{margin:auto;
+display:block;
+border: solid #95f5ff;
+border-radius:0 0 30px 30px;
+padding: 20px; 
+background-color:#95f5ff;}
+div{border-radius:15px 30px 30px 15px;
+width:330px}
+.pup {padding: 5px;
+    background-color: #ff005e;
+    border-radius:15px 30px 30px 15px;
+   }
+.pup p  {color:white;}
+#dva{color #ffbe957d;
+background-color:#ffbe95;
+border:solid #ffbe957d;
+width: 110px;
+height: 80px;
+    border-radius:15px;
+    padding-right:15px;}
+ .dud{padding:5px;
+ background-color:#eaffff;}
+ .pup {padding: 5px;
+    background-color: #ff005e;
+   }
+   .zuz p  {color:blue;}
+#tri{color:black;
+background-color:white;
+border:solid 5px #ff95e7;
+width: 110px;
+height: 80px;
+    border-radius:15px;
+    padding-right:15px;}
+ .zuz{padding:5px;
+ background-color:#bebeae;}
+ 
+.sas p{color:lightblue;}
+#chet{color:#ffdfaa;
+background-color:#7d0a0a;
+border:solid 5px;
+width: 110px;
+height: 50px;
+    border-radius:15px;
+    padding-right:15px;}
+.sas {padding:5px;
+background-color:#bfffbf;}
+
+.viv p{color:#ff000aa9;}
+#pyat{color:#ff000a;
+background-color:#ff5540c1;
+border:solid 5px;
+width: 90px;
+height: 50px;
+    border-radius:15px;
+    padding-right:15px;}
+.viv {padding:5px;
+background-color:#ff007390;}
+ 
